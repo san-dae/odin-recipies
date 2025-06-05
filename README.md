@@ -1,1 +1,1 @@
-# odin-recipies
+An incredibly simple website, detailing 3 recipies.
